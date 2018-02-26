@@ -1,7 +1,6 @@
 package com.tad.bean;
 
 public class Action {
-	
 	private Long id;
 	private String name;
 	private String url;
