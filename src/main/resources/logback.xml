@@ -19,7 +19,7 @@
             <pattern>%date|%msg%n</pattern>
         </encoder>
     </appender>
-
+    
     <root>
         <level value="${log.level}" />
         <appender-ref ref="${log.appender.ref}" />
